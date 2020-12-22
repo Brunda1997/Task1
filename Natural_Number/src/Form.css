@@ -1,0 +1,12 @@
+.form{
+    text-align: center;
+    border: 1px solid black;
+    margin:0 10%
+}
+input{
+    width:20%;
+    border-radius: 20px;
+}
+placeholder{
+    align-items: center;
+}
